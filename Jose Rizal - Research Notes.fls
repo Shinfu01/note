@@ -1,0 +1,39 @@
+PWD d:\SHAWN\Git
+INPUT C:\Users\sanpe\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\SHAWN\Git\Jose Rizal - Research Notes.tex
+OUTPUT Jose Rizal - Research Notes.log
+INPUT D:\SHAWN\LaTeX\tex\latex\base\article.cls
+INPUT D:\SHAWN\LaTeX\tex\latex\base\article.cls
+INPUT D:\SHAWN\LaTeX\tex\latex\base\size10.clo
+INPUT D:\SHAWN\LaTeX\tex\latex\base\size10.clo
+INPUT D:\SHAWN\LaTeX\tex\latex\base\size10.clo
+INPUT D:\SHAWN\LaTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT D:\SHAWN\LaTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\Jose Rizal - Research Notes.aux
+INPUT .\Jose Rizal - Research Notes.aux
+INPUT Jose Rizal - Research Notes.aux
+OUTPUT Jose Rizal - Research Notes.aux
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmr12.tfm
+OUTPUT Jose Rizal - Research Notes.pdf
+INPUT C:\Users\sanpe\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT D:\SHAWN\LaTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT Jose Rizal - Research Notes.aux
+INPUT D:\SHAWN\LaTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\SHAWN\LaTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT D:\SHAWN\LaTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\SHAWN\LaTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT D:\SHAWN\LaTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\SHAWN\LaTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT D:\SHAWN\LaTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT D:\SHAWN\LaTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
